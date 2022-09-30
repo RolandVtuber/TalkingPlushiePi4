@@ -32,4 +32,4 @@ ExecStartPost=/usr/bin/sdptool add SP
 
 ## Results:
 
-![](https://github.com/TalkingPlushiePi4/plushie.gif)
+![](https://github.com/RolandVtuber/TalkingPlushiePi4/blob/main/plushie.gif)
